@@ -1,0 +1,2 @@
+get request not for sensitive information like password because it gets into server logs (use post req)
+get request also has limit (used for small queries_) 
